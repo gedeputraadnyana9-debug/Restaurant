@@ -28,7 +28,7 @@ export default {
 
 <template>
     <div>
-    <h2>toko Online</h2>
+    <h2>toko Online Gung de</h2>
 
     <p>Total Item di Keranjang (Getter): <strong> {{ totalItemKeranjang }}</strong></p>
 
